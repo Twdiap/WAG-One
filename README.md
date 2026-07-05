@@ -2,9 +2,7 @@
 
 Wear your GIFs. WAG One is a wearable pendant / earring / pin / ring that loops your favorite GIFs on a tiny round display, built around an ESP32-C3 (V2 with ESP32-C6 incoming with the new PCB)
 
-## Gallery
-
-![v2 pin cycling through multiple GIFs](docs/media/v2-pin-multigif.gif)
+![v1 metal pendent first version](docs/media/v1-pendent-test1.jpg)
 
 ## Table of Contents
 
@@ -31,6 +29,8 @@ Wear your GIFs. WAG One is a wearable pendant / earring / pin / ring that loops 
 WAG One turns a tiny round display (160x160, GC9D01) into a wearable accessory that plays your favorite GIFs on loop. Upload GIFs from your phone through a built-in web interface, pick the screen orientation, then go fully standalone — no Wi-Fi needed once your GIFs are loaded onto the device.
 
 The current build runs on an off-the-shelf Waveshare ESP32-C3-LCD-0.71 board. A custom PCB (v2) is in development for a more compact, battery-powered wearable form factor, but is not yet available in this repo — only code, photos and GIFs of the current prototype are published for now.
+
+![v2 pin cycling through multiple GIFs](docs/media/v2-pin-multigif.gif)
 
 ## Features
 
