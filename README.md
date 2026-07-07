@@ -70,7 +70,7 @@ v2 will ship a custom PCB designed specifically for wearables: smaller footprint
 ### Requirements
 
 - Waveshare ESP32-C3-LCD-0.71 board
-- Arduino IDE or PlatformIO
+- Arduino IDE or PlatformIO with ESP32 library v2.0.13
 - Libraries: `TFT_eSPI`, `lvgl` (v8.x), `LittleFS`, `Preferences`
 - A 2.4 GHz Wi-Fi hotspot to configure GIFs (your phone's hotspot works fine)
 
